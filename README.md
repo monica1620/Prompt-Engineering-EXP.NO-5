@@ -13,4 +13,10 @@ Prepare Multiple Test Scenarios: Select various scenarios such as: Generating a 
 
 OUTPUT:
 
+(uploaded on top)
+
+
 RESULT: 
+This experiment shows that basic prompts generate more accurate, structured, and detailed responses compared to naïve prompts.
+Clear and well-defined prompts significantly improve the quality and usefulness of AI-generated outputs.
+
